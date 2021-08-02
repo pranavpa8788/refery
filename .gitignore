@@ -136,14 +136,14 @@ version_notes.txt
 git_status.txt
 
 # File extensions 
-.swp
-.jpgtxt
-.py.swp
-.py.swo
-.txt
-.dat
-.c
-.pyx
+*.swp
+*.jpgtxt
+*.py.swp
+*.py.swo
+*.txt
+*.dat
+*.c
+*.pyx
 
 
 
