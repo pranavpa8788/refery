@@ -1,0 +1,21 @@
+image_parent_directory : Images
+
+window_position_x : 0
+
+window_position_y : 0
+
+image_margin : 0
+
+key_1 : Key.alt
+
+key_2 : Key.shift
+
+key_up : Key.up
+
+key_down : Key.down
+
+key_left : Key.left
+
+key_right : Key.right
+
+key_exit : "'q'"
