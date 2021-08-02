@@ -134,6 +134,9 @@ v3/
 memory_tests/
 version_notes.txt
 git_status.txt
+v1/Tests/
+v1/misc/
+v1/pyrefer_event.py
 
 # File extensions 
 *.swp
