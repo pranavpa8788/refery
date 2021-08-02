@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Test directories
+v2/
+v3/
+memory_tests/
+version_notes.txt
+git_status.txt
+
+# File extensions 
+.swp
+.jpgtxt
+.py.swp
+.py.swo
+.txt
+.dat
+.c
+.pyx
+
+
+
